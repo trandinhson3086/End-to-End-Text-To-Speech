@@ -19,12 +19,13 @@ apt-get install -y espeak
 pip install -r requirements.txt
 pip install gradio
 ```
-**Clone the Transformer TTS and MelGAN repos **
+
+### Clone the Transformer TTS and MelGAN repos
 ```
 git clone https://github.com/ajaykumar2409/TransformerTTS.git
 git clone https://github.com/seungwonpark/melgan.git
 ```
-**Download the pre-trained weights **
+### Download the pre-trained weights 
 ```
 wget https://public-asai-dl-models.s3.eu-central-1.amazonaws.com/TransformerTTS/ljspeech_melgan_forward_transformer.zip
 unzip ljspeech_melgan_forward_transformer.zip
