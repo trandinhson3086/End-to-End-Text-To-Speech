@@ -34,7 +34,7 @@ wget https://github.com/seungwonpark/melgan/releases/download/v0.3-alpha/nvidia_
 ### Try it out on Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/trandinhson3086/End-to-End-Text-To-Speech/blob/main/synthesize_tts.ipynb)
 
-## Contact
+#### Contact
 
 Tran Dinh-Son
 
