@@ -38,7 +38,7 @@ wget https://github.com/seungwonpark/melgan/releases/download/v0.3-alpha/nvidia_
 
 
 ### For Korean TTS
-[![Open In this Colab](https://colab.research.google.com/github/trandinhson3086/End-to-End-Text-To-Speech/blob/main/E2E_TensorflowTTS_KSS.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/trandinhson3086/End-to-End-Text-To-Speech/blob/main/E2E_TensorflowTTS_KSS.ipynb)
 
 #### Contact
 
